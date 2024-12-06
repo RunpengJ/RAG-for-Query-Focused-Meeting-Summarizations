@@ -1,5 +1,4 @@
 __pycache__/*
 questions_answers.tsv
-ColBERT/*
-colbertv2.0/
+meetings.tsv
 .ragatouille/*
